@@ -19,7 +19,7 @@ Ensure you have **Python 3.x** installed.
    ```
 2. Run the script:
    ```bash
-   python file_compressor.py
+   python File_compression_Tool.py
    ```
 3. Enter the file or folder paths (comma-separated) to compress.
 4. Specify the output file name with **.zip** or **.tar.gz** extension.
