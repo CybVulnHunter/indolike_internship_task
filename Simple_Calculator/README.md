@@ -1,4 +1,4 @@
-# 🧮 Scientific Calculator using Tkinter
+# Scientific Calculator using Tkinter
 
 ## 🌟 Overview
 
