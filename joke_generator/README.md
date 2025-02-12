@@ -17,8 +17,8 @@ pip install pyjokes
 ## 🚀 Usage
 1. Clone the repository or download the script:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/CybVulnHunter/indolike_internship_task.git
+   cd indolike_internship_task
    ```
 2. Run the script:
    ```bash
